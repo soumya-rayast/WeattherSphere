@@ -106,9 +106,6 @@ export function CitySearch() {
                       <span className="text-sm text-muted-foreground">
                         , {item.country}
                       </span>
-                      <span className="ml-auto text-xs text-muted-foreground">
-                        {format(item.searchedAt, "MMM d, h:mm a")}
-                      </span>
                     </CommandItem>
                   ))}
                 </CommandGroup>
