@@ -20,7 +20,7 @@ WeatherSphere is a weather forecasting platform built using **Next.js, ShadCN UI
 
 1. **Clone the repository:**
    ```bash
-   [git clone https://github.com/your-username/weathersphere.git](https://github.com/soumya-rayast/WeattherSphere.git)
+   git clone https://github.com/your-username/weathersphere.git
    cd weathersphere
    ```
 
